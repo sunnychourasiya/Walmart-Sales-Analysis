@@ -124,6 +124,28 @@ This project addresses these challenges by building a complete SQL → Power BI 
 
 ---
 
+## ❓ Key Business Questions
+
+### Revenue & Sales Performance
+- Which branch generates the highest revenue and profit?
+- Which product lines contribute most to profitability?
+- How do revenue trends vary by hour, day, and month?
+
+### Customer Insights
+- Do Members spend more than Normal customers?
+- How do gender-based purchasing patterns differ?
+- Which categories receive the highest customer ratings?
+
+### Product Profitability
+- Which product lines produce the highest gross income?
+- Is there a relationship between customer ratings and purchase volume?
+
+### Branch Comparison
+- Which branch demonstrates the strongest operational performance?
+- How do satisfaction ratings vary across locations?
+
+---
+
 ## Project Workflow
 
 ```
@@ -206,28 +228,6 @@ ORDER BY hour_of_day;
 
 ---
 
-
-## ❓ Business Questions Addressed
-
-### **Revenue & Sales Performance**
-- Which branch achieves the highest revenue and profit?  
-- Which product lines are most profitable?  
-- What are the hourly, daily, and monthly revenue trends?  
-
-### **Customer Insights**
-- Do Members spend more than Normal customers?  
-- How do gender-based spending behaviors differ?  
-- Which product lines receive the highest ratings?  
-
-### **Product Profitability**
-- Which categories generate the highest gross income?  
-- Do higher-rated products sell more frequently?  
-
-### **Branch Comparison**
-- Which branch performs best operationally?  
-- How do satisfaction ratings vary by location?  
-
----
 
 ## 📊 Power BI Dashboard
 
